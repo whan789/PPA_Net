@@ -39,4 +39,4 @@ If you have any questions or want to use the code, feel free to contact:
 
 * Whan Choi (whan789@yonsei.ac.kr)
 * Kunwoo Kang (kunwoo2027@yonsei.ac.kr)
-* Shinwoong Kim (kshw19971029.gmail.com)
+* Shinwoong Kim (kshw19971029@gmail.com)
