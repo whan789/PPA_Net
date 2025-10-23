@@ -30,6 +30,7 @@ We appreciate the following Github repos a lot for their valuable code and effor
 * DLinear (https://github.com/cure-lab/LTSF-Linear.git)
 * FEDformer (https://github.com/MAZiqing/FEDformer.git)
 * Autoformer (https://github.com/thuml/Autoformer.git)
+* Time-Series-Library (https://github.com/thuml/Time-Series-Library.git)
 
 ## Contact
 If you have any questions or want to use the code, feel free to contact:
