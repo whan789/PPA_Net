@@ -12,7 +12,9 @@ Recent advances in time-series forecasting have explored paradigms such as frequ
 PPA-Net leverages patch-wise summarization and spectral knowledge distillation to capture both local and global temporal dependencies.
 It introduces a Patch Pooling Aggregator (PPA) that adaptively fuses contextual and extreme-value descriptors, and employs a frequency-domain teacher branch to guide the patch branch through intra-model distillation, achieving efficient and robust long-term forecasting.
 
-<img src="img/Overall.png" width="600">
+<p align="center">
+  <img src="img/Overall.png" width="700"/>
+</p>
 
 ## Result of Experiment
 We evaluate PPA-Net on several multivariate forecasting benchmarks.
